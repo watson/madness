@@ -25,7 +25,7 @@ function madness() {
     setTimeout(function () {
       req.abort();
       process.nextTick(madness);
-    }, Math.random() * 500);
+    }, (Math.random() * 500) | 0);
   });
 }
 
