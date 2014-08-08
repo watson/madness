@@ -6,9 +6,10 @@
     "madness": "./blow.js"
   },
   "dependencies": {
+    "cowsay": "^1.0.3",
+    "pretty-bytes": "^0.1.2",
     "pump": "^0.3.5",
-    "request-stats": "^0.3.2",
-    "pretty-bytes": "^0.1.2"
+    "request-stats": "^0.3.2"
   },
   "description": "madness =======",
   "scripts": {
