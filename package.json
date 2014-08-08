@@ -1,0 +1,38 @@
+{
+  "name": "madness",
+  "version": "1.0.0",
+  "main": "blow.js",
+  "bin": {
+    "madness": "./blow.js"
+  },
+  "dependencies": {
+    "pump": "^0.3.5",
+    "request-stats": "^0.3.2",
+    "pretty-bytes": "^0.1.2"
+  },
+  "description": "madness =======",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/watson/madness.git"
+  },
+  "keywords": [
+    "unix",
+    "pipes",
+    "random",
+    "dev",
+    "null",
+    "node",
+    "awesome",
+    "mad",
+    "science"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/madness/issues"
+  },
+  "homepage": "https://github.com/watson/madness"
+}
