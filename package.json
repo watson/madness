@@ -11,7 +11,7 @@
     "pump": "^0.3.5",
     "request-stats": "^0.3.2"
   },
-  "description": "madness =======",
+  "description": "unix + node == <3",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
